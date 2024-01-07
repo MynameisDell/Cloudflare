@@ -1,0 +1,4 @@
+*.terraform
+*.hcl
+# wildcard at end to stop the backup being checked in
+*.tfstate*
